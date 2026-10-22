@@ -155,7 +155,7 @@ Do not include private credentials or assume that raw datasets can be redistribu
 
 The project documents identify the intended repository as:
 
-[`https://github.com/shazahmedsyed-lab/ICSEED-2026-1`](https://github.com/shazahmedsyed-lab/ICSEED-2026-1)
+[`https://github.com/shazahmedsyed-lab/enzyme-polymer-and-toxicity`](https://github.com/shazahmedsyed-lab/enzyme-polymer-and-toxicity)
 
 Before publishing this README, confirm that this is the correct public repository URL and that its committed contents match the analyses described here. Add links to the exact notebooks, scripts, and data/output directories once their paths have been verified.
 
